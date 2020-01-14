@@ -1,0 +1,5 @@
+C:\Users\Enapsys\Documents\GitHub\Records\RecordsAPI\bin\Debug\netstandard2.0\RecordsAPI.deps.json
+C:\Users\Enapsys\Documents\GitHub\Records\RecordsAPI\bin\Debug\netstandard2.0\RecordsAPI.dll
+C:\Users\Enapsys\Documents\GitHub\Records\RecordsAPI\obj\Debug\netstandard2.0\RecordsAPI.csprojAssemblyReference.cache
+C:\Users\Enapsys\Documents\GitHub\Records\RecordsAPI\obj\Debug\netstandard2.0\RecordsAPI.AssemblyInfoInputs.cache
+C:\Users\Enapsys\Documents\GitHub\Records\RecordsAPI\obj\Debug\netstandard2.0\RecordsAPI.AssemblyInfo.cs
